@@ -14,7 +14,7 @@
 
 ![](../images/pilot-01/size-for-artboard.gif)
 
-### **3.** After you select a size for your artboard, the Adobe XD workspace window appears. You can switch between Design and Prototype modes by clicking between the two tabs found at the top. Create a xd project named "custom". Select a custom size of your choice to get a feel for it. 
+### **3.** After you select a size for your artboard, the Adobe XD workspace window appears. You can switch between Design and Prototype modes by clicking between the two tabs found at the top. Create a project named "custom". Select a custom size of your choice to get a feel for it. 
 
 ![](../images/pilot-01/switch-between-tabs.gif) 
 
