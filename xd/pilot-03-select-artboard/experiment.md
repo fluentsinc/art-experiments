@@ -10,7 +10,7 @@
 
 ### **2.** You can either do one of the following actions below to select an artboard: 
 
-- ### Click on the artboard title to select the artboard. This is the recommended way to select an artboard. 
+- ### Click on the artboard's title to select the artboard. This is the recommended way to select an artboard. 
 
 ![](../images/pilot-03/select-artboard-1.gif)
 
