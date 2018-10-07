@@ -11,6 +11,14 @@
 
 ### https://www.adobe.com/products/catalog.html. 
 
+### Enter the names of the products that has the below functionalities into "master.md":
+
+### 1. The product that creates beautiful vector arts and illustrations 
+
+### 2. The product that lets you design, prototype and share user experiences. 
+
+### 3. The product that creates graphics, web pages and video stories in minutes. 
+
 ### The below gif shows the Creative Cloud app. 
 
 ![](../images/pilot-01/cc-app.gif)
