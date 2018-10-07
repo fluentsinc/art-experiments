@@ -17,6 +17,11 @@
 
 ![](../images/pilot-02/launch-behance.gif)
 
+### Take a look at UX designs of some professional UX designers here: 
+
+### https://www.behance.net/galleries/8/Interaction?content=projects&queues=271
+
+
 
 
 ## **Reference**
