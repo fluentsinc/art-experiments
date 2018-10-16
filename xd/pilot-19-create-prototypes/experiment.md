@@ -2,7 +2,7 @@
 
 # **Experiment**
 
-1. ### Adobe XD lets you create interactive prototypes. You can design your screens and just wire the artboards together to create a prototype that looks pretty real when you see the prototype in a mobile device using Adobe XD app. Before we go further, it's good to remember that the prototype mode won't work until you have something on your artboard. If your artboard is empty, the prototype mode won't show anything. ![](../images/pilot-19/prototype-mode-without-designs.gif) 
+1. ### Adobe XD lets you create interactive prototypes. You can design your artboards(scenes) and just wire the artboards together to create a prototype that looks pretty real especially when you see the prototype in a mobile device using Adobe XD app. Before we go further, it's good to remember that the prototype mode won't work until you have something on your artboard. If your artboard is empty, the prototype mode won't show anything. ![](../images/pilot-19/prototype-mode-without-designs.gif) 
 
 2. ### You would design the navigations between your screens by using the connecting handle that appears in prototype mode. Connect the wire to a graphic object in another artboard to create a story so to speak. What's the next scene in your story of an app or a website? Maybe in your app or website, the home screen scene is followed by a map or payment scene followed by a receipt scene. You can say all that using the connecting wires. You can connect the wires from artboards to artboards or from graphic element in one artboard to another artboard. ![](../images/pilot-19/connecting-wires.gif)
 
